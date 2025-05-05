@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luiztorresjr, 31 years old
+- 👋 Hi, I’m @luiztorresjr
 - 👀 I’m interested in books, tv shows
-- 🌱 I’m currently learning C#, .Net, Angular
+- 🌱 I’m Software Developer using C#, .Net, Angular, Java and Spring boot
 - 📫 How to reach me @luiztrjunior
 
 <!---
