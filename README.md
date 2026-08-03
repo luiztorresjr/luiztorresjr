@@ -2,6 +2,7 @@
 - 👀 I’m interested in books, tv shows
 - 🌱 I’m Software Developer using C#, .Net, Angular, Java and Spring boot and Android.
 - 📫 How to reach me @luiztrjunior
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!---
 luiztorresjr/luiztorresjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
