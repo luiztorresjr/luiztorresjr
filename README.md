@@ -4,7 +4,7 @@
 - 📫 How to reach me @luiztrjunior
 
   
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,dotnet,git,js,&perline=3)](https://skillicons.dev)
 
 <!---
 luiztorresjr/luiztorresjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
