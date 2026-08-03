@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiztorresjr
 - 👀 I’m interested in books, tv shows
-- 🌱 I’m Software Developer using C#, .Net, Angular, Java and Spring boot
+- 🌱 I’m Software Developer using C#, .Net, Angular, Java and Spring boot and Android.
 - 📫 How to reach me @luiztrjunior
 
 <!---
