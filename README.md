@@ -9,7 +9,6 @@ Welcome to my GitHub profile! Here's a little bit about me.
 - 📫 **Contact:** Find me on GitHub as [@luiztrjunior](https://github.com/luiztorresjr).
 
 ## 🛠️ Technologies & Tools
-C#, Android, SQL Server, Java, .NET 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,ts,js,androidstudio,git,docker,azure&perline=6)](https://skillicons.dev)
 
