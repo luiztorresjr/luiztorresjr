@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @luiztorresjr
+  And that is just a little that you need know about me:
+  I work with IT since 2018, but I only start to work as developer in june 2021
+  And I like to studym and I future plan is get the intermediate level in some languages like, dutch, germany and spanish.
 - 👀 I’m interested in books, tv shows
 - 🌱 I’m Software Developer using C#, .Net, Angular, Java and Spring boot and Android.
 - 📫 How to reach me @luiztrjunior
