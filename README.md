@@ -1,15 +1,18 @@
-- 👋 Hi, I’m @luiztorresjr
-  And that is just a little that you need know about me:
-  I work with IT since 2018, but I only start to work as developer in june 2021
-  And I like to studym and I future plan is get the intermediate level in some languages like, dutch, germany and spanish.
-- 👀 I’m interested in books, tv shows
-- 🌱 I’m Software Developer using C#, .Net, Angular, Java and Spring boot and Android.
-- 📫 How to reach me @luiztrjunior
+# 👋 Hi, I'm @luiztorresjr!
 
-  
-[![My Skills](https://skillicons.dev/icons?i=cs,java,dotnet,git,js,&perline=3)](https://skillicons.dev)
+Welcome to my GitHub profile! Here's a little bit about me.
 
-<!---
-luiztorresjr/luiztorresjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 **About me:** I've been working in IT since 2018 and started my journey as a software developer in June 2021.
+- 🌱 **Currently working with:** C#, .NET, Angular, Java, Spring Boot, and Android development.
+- 📚 **Lifelong learner:** I enjoy studying new technologies and continuously improving my skills. One of my personal goals is to reach an intermediate level in Dutch, German, and Spanish.
+- 👀 **Interests:** I enjoy reading books, watching TV shows, and exploring new technologies.
+- 📫 **Contact:** Find me on GitHub as [@luiztrjunior](https://github.com/luiztorresjr).
+
+## 🛠️ Technologies & Tools
+C#, Android, SQL Server, Java, .NET 
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,ts,js,androidstudio,git,docker,azure&perline=6)](https://skillicons.dev)
+
+---
+
+💡 *Always learning, always building, and always looking for new challenges!*
